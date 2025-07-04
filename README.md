@@ -6,3 +6,8 @@
 *DURATION*:8 WEEKS
 *MENTOR*:Neela Santhosh Kumar
 ## I HAVE USED A TABLEAU TO ANALYZE COVID-19 DATASETS
+
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/de65361a-2a3e-431e-a605-4705d5636ec6)
