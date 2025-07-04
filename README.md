@@ -7,6 +7,7 @@
 *MENTOR*:Neela Santhosh Kumar
 ## I HAVE USED A TABLEAU TO ANALYZE COVID-19 DATASETS
 
+LINK TO TABLEAU: https://public.tableau.com/views/covid19_17097125509780/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## OUTPUT
 
