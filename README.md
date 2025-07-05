@@ -1,13 +1,20 @@
 # DASHBOARD-DEVELOPMENT
+
 *COMPANY*:CODTECH IT SOLUTIONS
+
 *NAME*:SACHINMAYAN
+
 *INTERN ID*:CT08DF2238
+
 *DOMAIN*:DATA ANALYTICS
+
 *DURATION*:8 WEEKS
+
 *MENTOR*:Neela Santhosh Kumar
+
 ## I HAVE USED A TABLEAU TO ANALYZE COVID-19 DATASETS
 
-LINK TO TABLEAU: https://public.tableau.com/views/covid19_17097125509780/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Click here to view the Tableau Dashboard](https://public.tableau.com/views/covid19_17097125509780/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## OUTPUT
 
